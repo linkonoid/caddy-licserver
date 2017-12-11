@@ -1,0 +1,6 @@
+http://:2015 {
+	licserver {
+		dbname testdb
+	}
+}
+
